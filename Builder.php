@@ -1,6 +1,13 @@
 <?php
-
-
+/**   
+ * Builder Pattern - Adaptado da Obra "Dive into Design Patterns" 
+ * Disponível em: https://sourcemaking.com/design_patterns/builder/php/1 
+ * @version 1.0   
+ * @package Builder  
+ * @author Thiago Cantero Mari Monteiro   
+ * @copyright Copyright (c) 2022 Thiago Cantero Mari Monteiro   
+ * @license http://www.thiagocantero.com.br/sobre  
+ **/
 
 abstract class AbstrataVeiculoBuilder {
     abstract function getVeiculo();
