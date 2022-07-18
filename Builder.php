@@ -117,9 +117,6 @@ class VeiculoDiretorBuilder extends AbstrataVeiculoDiretor {
     }
 }
 
-//   writeln('BEGIN TESTING BUILDER PATTERN');
-//   writeln('');
-
   $veiculoBuilder = new VeiculoBuilder();
   $veiculoDiretor = new VeiculoDiretorBuilder($veiculoBuilder);
   $veiculoDiretor->buildVeiculo();
