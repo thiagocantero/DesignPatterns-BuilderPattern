@@ -123,8 +123,7 @@ class VeiculoDiretorBuilder extends AbstrataVeiculoDiretor {
   $veiculo = $veiculoDiretor->getVeiculo();
   writeln($veiculo->showVeiculo());
   writeln('');
- 
-//   writeln('END TESTING BUILDER PATTERN');
+
 
   function writeln($line_in) {
     echo $line_in."<br/>";
