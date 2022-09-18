@@ -6,4 +6,4 @@
 
 *Neste artigo é demonstrado como o Padrão Builder pode ser implementado, de maneira bem prática.*
 
-Mais em  https://thiagocantero.com.br/2022/07/18/design-patterns-builder-em-php/
+Mais em  https://thiagocantero.com.br/2022/09/16/arquitetura-de-software-explicada-passo-a-passo-com-laravel/
